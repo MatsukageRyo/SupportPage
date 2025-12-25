@@ -1,4 +1,6 @@
-# サポート / Support
+---
+title: サポート / Support
+---
 
 ## 日本語
 
